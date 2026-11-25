@@ -55,7 +55,7 @@ def find_repeat(arr):
         if freq[i] > 1:
             print(i)
             break
-arr = [1, 1, 2, 2, 4, 3, 3, 5, 5]
+arr = [1, 1,2, 2, 4, 3, 3, 5, 5]
 find_repeat(arr)
 
 
